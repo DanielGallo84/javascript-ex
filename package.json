@@ -1,0 +1,16 @@
+{
+  "name": "javascript_exercises",
+  "version": "1.0.0",
+  "description": "",
+  
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "sass": "^1.69.4"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
